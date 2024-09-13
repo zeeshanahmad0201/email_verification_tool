@@ -1,5 +1,7 @@
 # Email Verifier Tool
 
+![Project Demo](assets/demo.gif)
+
 ## Introduction
 
 The Email Verifier Tool is a lightweight and efficient GoLang-based utility designed to validate email addresses. It checks for basic syntax correctness, domain validity, and DNS records to ensure that the provided email address is likely to be valid. This tool does not include SMTP verification.
