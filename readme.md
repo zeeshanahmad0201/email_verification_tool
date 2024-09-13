@@ -1,10 +1,10 @@
-# Email Verifier Tool
+# Email Verification Tool
 
 ![Project Demo](assets/demo.gif)
 
 ## Introduction
 
-The Email Verifier Tool is a lightweight and efficient GoLang-based utility designed to validate email addresses. It checks for basic syntax correctness, domain validity, and DNS records to ensure that the provided email address is likely to be valid. This tool does not include SMTP verification.
+The Email Verification Tool is a lightweight and efficient GoLang-based utility designed to validate email addresses. It checks for basic syntax correctness, domain validity, and DNS records to ensure that the provided email address is likely to be valid. This tool does not include SMTP verification.
 
 ## Features
 
@@ -14,7 +14,7 @@ The Email Verifier Tool is a lightweight and efficient GoLang-based utility desi
 
 ## Installation
 
-To get started with the Email Verifier Tool, you need to have Go installed on your system. Follow these steps to install and set up the tool:
+To get started with the Email Verification Tool, you need to have Go installed on your system. Follow these steps to install and set up the tool:
 
 1. **Clone the Repository**:
 
@@ -42,7 +42,7 @@ To get started with the Email Verifier Tool, you need to have Go installed on yo
 
 ## Usage
 
-You can use the Email Verifier Tool directly from the command line. Here’s how to use it:
+You can use the Email Verification Tool directly from the command line. Here’s how to use it:
 
 1. **Run the Tool**:
 
@@ -60,7 +60,7 @@ You can use the Email Verifier Tool directly from the command line. Here’s how
 
 ## Contributing
 
-We welcome contributions to enhance the Email Verifier Tool. If you have any improvements, bug fixes, or new features, please follow these steps to contribute:
+We welcome contributions to enhance the Email Verification Tool. If you have any improvements, bug fixes, or new features, please follow these steps to contribute:
 
 1. **Fork the Repository**: Create your own fork of the project.
 2. **Create a Branch**: Create a new branch for your changes.
