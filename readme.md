@@ -9,7 +9,6 @@ The Email Verifier Tool is a lightweight and efficient GoLang-based utility desi
 - **Syntax Validation**: Ensures the email address adheres to standard email formatting rules.
 - **Domain Check**: Verifies if the domain part of the email address has valid MX (Mail Exchange) records.
 - **DNS Record Check**: Checks for the presence of TXT records, SPF, and DMARC records for domain verification.
-- **Disposable Email Detection**: Identifies and flags email addresses from known disposable email providers.
 
 ## Installation
 
