@@ -93,6 +93,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or inquiries, please reach out to:
 
-- **Name**: Zeeshan Ahmad
 - **Email**: [xeeshanahmad0201@gmail.com](mailto:xeeshanahmad0201@gmail.com)
-- **GitHub**: [github.com/zeeshanahmad0201](https://github.com/zeeshanahmad0201)
